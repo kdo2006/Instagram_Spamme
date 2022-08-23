@@ -14,7 +14,7 @@ I have Made Instagram Spammer. This tool made  for educational, if you do any un
  git clone ttps://github.com/kdo2006/Instagram_Spammer
  cd Whatsapp_Spammer
  pip3 install -r requirements.txt
- python spam.py
+ python instagram.py
 
 
  How to install Instagram Spammer in Termux ?
@@ -33,4 +33,4 @@ I have Made Instagram Spammer. This tool made  for educational, if you do any un
  git clone https://github.com/kdo2006/Instagram_Spammer
  cd Whatsapp_Spammer
  pip install -r requirements.txt
- python spam.py
+ python instagram.py
